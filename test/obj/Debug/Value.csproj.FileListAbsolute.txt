@@ -1,0 +1,8 @@
+D:\workspace\VSWork\test\test\bin\Debug\Value.exe.config
+D:\workspace\VSWork\test\test\bin\Debug\Value.exe
+D:\workspace\VSWork\test\test\bin\Debug\Value.pdb
+D:\workspace\VSWork\test\test\obj\Debug\test.Form1.resources
+D:\workspace\VSWork\test\test\obj\Debug\Value.Properties.Resources.resources
+D:\workspace\VSWork\test\test\obj\Debug\Value.csproj.GenerateResource.Cache
+D:\workspace\VSWork\test\test\obj\Debug\Value.exe
+D:\workspace\VSWork\test\test\obj\Debug\Value.pdb
